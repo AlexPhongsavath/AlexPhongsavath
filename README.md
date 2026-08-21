@@ -2,9 +2,9 @@
 
 # Alex Phongsavath
 
-**Software Developer · Fintech & Banking · Laos 🇱🇦**
+**Software Developer · Laos 🇱🇦**
 
-*Building mobile banking apps, backend services, and the occasional IoT sensor project*
+*Building web apps, backend services, and the occasional IoT sensor project*
 
 [![GitHub followers](https://img.shields.io/github/followers/AlexPhongsavath?style=flat&color=0D1117&labelColor=0D1117&logo=github)](https://github.com/AlexPhongsavath)
 
@@ -79,7 +79,6 @@ An ESP32-based smart garden system built for a Computer Engineering course at th
 
 ---
 
-## GitHub Stats
 
 <div align="center">
 
