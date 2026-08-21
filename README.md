@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alex%20Phongsavath&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Fintech%20%26%20Banking%20%E2%80%A2%20Laos%20%F0%9F%87%B1%F0%9F%87%A6&descSize=18&descAlignY=58&descColor=c0c8f0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alex%20Phongsavath&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%7C%20Fintech%20%26%20Banking%20%7C%20Laos&descSize=18&descAlignY=58&descColor=c0c8f0"/>
 
 <div align="center">
 
