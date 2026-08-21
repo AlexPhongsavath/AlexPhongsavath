@@ -139,28 +139,6 @@ REST API backend in **Bun + TypeScript** (no ORM, raw SQL), layered architecture
 
 ---
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AlexPhongsavath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPhongsavath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=AlexPhongsavath&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexPhongsavath&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/AlexPhongsavath)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 &nbsp;Let's connect
