@@ -6,8 +6,6 @@
 
 *Building web apps, backend services, and the occasional IoT sensor project*
 
-[![GitHub followers](https://img.shields.io/github/followers/AlexPhongsavath?style=flat&color=0D1117&labelColor=0D1117&logo=github)](https://github.com/AlexPhongsavath)
-
 </div>
 
 ---
